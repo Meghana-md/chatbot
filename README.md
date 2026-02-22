@@ -34,8 +34,6 @@ streamlit run main.py
 
 ```
 
-
-
 ## ✅ How to Use
 
 - Open the app in your browser  
@@ -43,4 +41,6 @@ streamlit run main.py
 - Go to the Chatbot page → ask questions  
 - The bot answers using your document
 
+## ⭐ One-Line Explanation (Super Simple)
 
+👉 “Upload a document → Ask questions → Get answers from that document.”
