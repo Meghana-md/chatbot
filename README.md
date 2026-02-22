@@ -32,6 +32,9 @@ pip install -r requirements.txt
 4. Run the app
 streamlit run main.py
 
+</Code>
+
+
 
 ## ✅ How to Use
 
