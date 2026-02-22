@@ -43,11 +43,13 @@ Go to the Chatbot page → ask questions
 
 The bot answers using your document
 
+## ⭐ One-Line Explanation (Super Simple)
+
+👉 “Upload a document → Ask questions → Get answers from that document.”
+
+
 👩‍💻 Author
 
 Udari Meghana
 
 
-👩‍💻 Author
-
-Udari Meghana
