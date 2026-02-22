@@ -33,23 +33,11 @@ pip install -r requirements.txt
 streamlit run main.py
 
 
-✅ How to Use
+## ✅ How to Use
 
-Open the app in your browser
-
-Go to the Ingest page → add your document
-
-Go to the Chatbot page → ask questions
-
-The bot answers using your document
-
-## ⭐ One-Line Explanation (Super Simple)
-
-👉 “Upload a document → Ask questions → Get answers from that document.”
-
-
-👩‍💻 Author
-
-Udari Meghana
+- Open the app in your browser  
+- Go to the Ingest page → add your document  
+- Go to the Chatbot page → ask questions  
+- The bot answers using your document
 
 
